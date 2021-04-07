@@ -1,7 +1,7 @@
 THE INTERPLANETARY TRAVEL COMPANY
 ---------------------------------
-Departing: Cape Canaveral, Earth
-Arriving: Base 314, The Moon
-Boarding time: 17:30 UTC
+Departing: Portland OR, Earth
+Arriving: Base 27, The Moon
+Boarding time: 17:30 PST
 Seat number: 1A
 Baggage allowance: 5kg 
